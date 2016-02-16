@@ -1,7 +1,7 @@
 var assert = require("assert");
 
-describe('Dummy Test', function(){
-    it('should pass', function(){
-      assert.ok(true, "It is true!");
+describe('Test', function(){
+    it('pass test', function(){
+      assert.ok(true, "true");
     });
 });
